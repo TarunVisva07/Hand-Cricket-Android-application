@@ -27,3 +27,7 @@ SecondInnings.java<br>
 activity_main.xml<br>
 activity_toss.xml<br>
 activity_second_page.xml<br>
+
+## SCREENSHOTS
+![image](https://user-images.githubusercontent.com/67747685/176948096-3072ccea-4587-4d82-b9e6-441614ea25c0.png)
+
