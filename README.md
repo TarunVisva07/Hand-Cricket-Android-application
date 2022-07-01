@@ -16,14 +16,14 @@ be tied.
 ## MAIN FILES USED:
 
 ## Java source files:
-MainActivity.java
-Toss.java
-BatBowl.java
-Game.java
-GamePage.java
-SecondInnings.java
+MainActivity.java<br>
+Toss.java<br>
+BatBowl.java<br>
+Game.java<br>
+GamePage.java<br>
+SecondInnings.java<br>
 
 ## Layout files:
-activity_main.xml
-activity_toss.xml
-activity_second_page.xml
+activity_main.xml<br>
+activity_toss.xml<br>
+activity_second_page.xml<br>
