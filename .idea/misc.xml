@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_bat_bowl.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_last_page.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_odd.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_second_inning.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_second_innings.xml" value="0.152" />
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_second_page.xml" value="0.136" />
+        <entry key="..\:/Users/tarun/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_toss.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
